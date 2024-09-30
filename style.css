@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", system-ui;
+  overflow-x: hidden;
+}
+
+.upper-nav {
+  background-color: #680c07;
+}
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-img-top {
+  width: 200px;
+}
+
+.card-title {
+  overflow: hidden;
+}
+
+h1,
+h5 {
+  overflow: hidden;
+}
+
+.menu {
+  max-height: 100px;
+}
+
+.footer {
+  width: 100%;
+}
